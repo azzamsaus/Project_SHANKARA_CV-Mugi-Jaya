@@ -31,4 +31,4 @@ if(query($sql)) {
 } else {
     header("Location: index.php?error=1");
 }
-?>
+?> 
